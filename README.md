@@ -1,0 +1,1 @@
+Quick and dirty React Native app for a birthday party
