@@ -624,6 +624,7 @@
 				);
 				PRODUCT_NAME = jepulis;
 				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -646,6 +647,7 @@
 				);
 				PRODUCT_NAME = jepulis;
 				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
